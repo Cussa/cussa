@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! </h1>
 
 
-I am Cussa de Souza (or Cussa Mitre), a Solution Architect currently workin in Deltatre/Massive Interactive.
+I am Cussa de Souza (or Cussa Mitre), a Solution Architect/Senior Integration Engineer currently workin at Creative Assembly.
 At my free time, I do some projects with some friends from Brazil, under the Hod Studio umbrella.
 
 🌱 I’m currently learning Python, Kafka, Flutter, Lua and improving my Java, Javascript, NodeJS and AWS.
@@ -35,5 +35,7 @@ At my free time, I do some projects with some friends from Brazil, under the Hod
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=cussa&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cussa&hide_border=true)
+
+All my work here is unrelated to Creative Assembly.
 
   > Created with [Ritchie Formulas Github](https://github.com/GuillaumeFalourd/formulas-github)
