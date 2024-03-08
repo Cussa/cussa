@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! </h1>
 
-
 I am Cussa de Souza (or Cussa Mitre), a Solution Architect/Senior Server Programmer currently working at 22Cans.
 At my free time, I do some projects with some friends from Brazil, under the Hod Studio umbrella.
 
 🌱 I’m currently learning Python, Kafka, Flutter, Lua and improving my Java, Javascript, NodeJS and AWS.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F0VE26Y)
 
 📫 How to reach me:
 - Telegram: https://t.me/cussamitre
